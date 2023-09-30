@@ -1,4 +1,4 @@
-# WoW GPT 
+# WOW Bot GPT 
 
 Simple Bot for **World of Warcraft** made wuth **ChatGPT**
 
