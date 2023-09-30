@@ -1,6 +1,6 @@
-# WOW Bot GPT 
+# WoW Bot GPT 
 
-Simple Bot for **World of Warcraft** made wuth **ChatGPT**
+Simple Bot for **World of Warcraft** made with **ChatGPT**
 
 # Installation
 
