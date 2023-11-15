@@ -1,12 +1,12 @@
-# WoW Bot GPT 
+# botPlus
 
-Simple Bot for **World of Warcraft** made with **ChatGPT**
+Bot for **World of Warcraft Classic** and **Plus**
 
 # Installation
 
-1. Download [Python](https://www.python.org/downloads/)
-2. Install Pillow `pip install Pillow` .
-3. Start script `Screenshots.py`
+1. [Python](https://www.python.org/downloads/)
+2. Pillow : `pip install Pillow` .
+
 
 # Chat prompt 
 
@@ -85,7 +85,4 @@ Mettez en place un mécanisme de débogage et de log. (4 heures)
 Effectuez des tests de performance. (4 heures)
 Utiliser un VPN pour cacher son ip ou autre (1 heure)
 
-# Credits
-
-- [ChatGPT](https://chat.openai.com/)
 
